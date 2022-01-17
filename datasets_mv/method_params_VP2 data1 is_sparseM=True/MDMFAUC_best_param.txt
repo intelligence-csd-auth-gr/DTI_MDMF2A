@@ -1,0 +1,16 @@
+Method	cvs	DataSet	AUPR	AUC	AUC_AUPR	Time	params
+MDMFAUC	2	nr1	0.547272	0.829668	1.376940	1.717085	{'num_factors': 50, 'lambda_d': 4.0, 'lambda_t': 0.0625, 'lambda_r': 0.25}
+MDMFAUC	2	gpcr1	0.539038	0.925286	1.464324	31.826704	{'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 1.0, 'lambda_r': 0.25}
+MDMFAUC	2	ic1	0.491500	0.826252	1.317752	46.114490	{'num_factors': 50, 'lambda_d': 4.0, 'lambda_t': 1.0, 'lambda_r': 0.0625}
+MDMFAUC	2	e1	0.411415	0.893735	1.305150	805.255613	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 4.0}
+MDMFAUC	2	luo	0.447963	0.929007	1.376970	5433.262454	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 0.0625}
+MDMFAUC	3	nr1	0.545414	0.820657	1.366071	2.280735	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 1.0, 'lambda_r': 0.0625}
+MDMFAUC	3	gpcr1	0.779051	0.962590	1.741641	37.566438	{'num_factors': 100, 'lambda_d': 0.0625, 'lambda_t': 0.0625, 'lambda_r': 1.0}
+MDMFAUC	3	ic1	0.862991	0.966331	1.829322	77.897173	{'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 1.0, 'lambda_r': 1.0}
+MDMFAUC	3	e1	0.729019	0.946369	1.675388	981.542304	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 0.0625}
+MDMFAUC	3	luo	0.264633	0.895421	1.160054	6059.642589	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 0.0625}
+MDMFAUC	4	nr1	0.276694	0.649335	0.926029	1.207729	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 0.25, 'lambda_r': 1.0}
+MDMFAUC	4	gpcr1	0.402265	0.886843	1.289108	20.601703	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 0.0625, 'lambda_r': 1.0}
+MDMFAUC	4	ic1	0.343212	0.778824	1.122036	33.875036	{'num_factors': 50, 'lambda_d': 1.0, 'lambda_t': 1.0, 'lambda_r': 1.0}
+MDMFAUC	4	e1	0.221896	0.826073	1.047969	354.935994	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 1.0}
+MDMFAUC	4	luo	0.157118	0.849003	1.006121	2562.936322	{'num_factors': 100, 'lambda_d': 4.0, 'lambda_t': 4.0, 'lambda_r': 1.0}

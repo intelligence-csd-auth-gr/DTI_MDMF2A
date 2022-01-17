@@ -1,0 +1,16 @@
+Method	cvs	DataSet	AUPR	AUC	AUC_AUPR	Time	params
+MDMFAUPR	2	nr1	0.594780	0.831699	1.426479	1.358585	{'n_b': 16, 'num_factors': 50, 'lambda_d': 0.015625, 'lambda_t': 0.015625, 'lambda_r': 0.015625}
+MDMFAUPR	2	gpcr1	0.558464	0.917390	1.475854	12.128931	{'n_b': 11, 'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 0.015625, 'lambda_r': 0.015625}
+MDMFAUPR	2	ic1	0.494853	0.818545	1.313398	24.836274	{'n_b': 11, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 0.0625, 'lambda_r': 0.25}
+MDMFAUPR	2	e1	0.417125	0.875963	1.293088	343.286771	{'n_b': 21, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 0.0625, 'lambda_r': 1.0}
+MDMFAUPR	2	luo	0.471630	0.935428	1.407058	1009.522867	{'n_b': 21, 'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 0.0625, 'lambda_r': 0.25}
+MDMFAUPR	3	nr1	0.581717	0.802733	1.384450	1.581967	{'n_b': 21, 'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 0.015625, 'lambda_r': 0.25}
+MDMFAUPR	3	gpcr1	0.785229	0.957434	1.742663	10.926633	{'n_b': 26, 'num_factors': 50, 'lambda_d': 1.0, 'lambda_t': 0.0625, 'lambda_r': 0.25}
+MDMFAUPR	3	ic1	0.860670	0.963251	1.823921	35.310821	{'n_b': 26, 'num_factors': 100, 'lambda_d': 0.0625, 'lambda_t': 0.25, 'lambda_r': 1.0}
+MDMFAUPR	3	e1	0.721913	0.941083	1.662996	305.079665	{'n_b': 21, 'num_factors': 100, 'lambda_d': 0.015625, 'lambda_t': 1.0, 'lambda_r': 1.0}
+MDMFAUPR	3	luo	0.278299	0.888048	1.166347	1187.000166	{'n_b': 21, 'num_factors': 100, 'lambda_d': 0.0625, 'lambda_t': 0.25, 'lambda_r': 0.0625}
+MDMFAUPR	4	nr1	0.284038	0.660339	0.944377	1.569676	{'n_b': 31, 'num_factors': 50, 'lambda_d': 0.25, 'lambda_t': 0.0625, 'lambda_r': 0.015625}
+MDMFAUPR	4	gpcr1	0.405649	0.878172	1.283821	8.048138	{'n_b': 16, 'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 0.015625, 'lambda_r': 0.015625}
+MDMFAUPR	4	ic1	0.353468	0.781110	1.134578	8.173352	{'n_b': 11, 'num_factors': 50, 'lambda_d': 0.0625, 'lambda_t': 0.015625, 'lambda_r': 0.25}
+MDMFAUPR	4	e1	0.235566	0.806708	1.042274	100.206792	{'n_b': 21, 'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 1.0, 'lambda_r': 0.25}
+MDMFAUPR	4	luo	0.180437	0.846437	1.026874	513.333119	{'n_b': 21, 'num_factors': 100, 'lambda_d': 0.015625, 'lambda_t': 0.25, 'lambda_r': 0.015625}

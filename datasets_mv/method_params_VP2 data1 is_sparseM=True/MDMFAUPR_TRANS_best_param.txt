@@ -1,0 +1,6 @@
+Method	cvs	DataSet	AUPR	AUC	AUC_AUPR	Time	params
+MDMFAUPR_TRANS	1	nr1	0.670850	0.888383	1.559233	2.007643	{'n_b': 31, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 0.25, 'lambda_r': 0.015625}
+MDMFAUPR_TRANS	1	gpcr1	0.867143	0.976638	1.843781	17.919699	{'n_b': 16, 'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 0.25, 'lambda_r': 0.0625}
+MDMFAUPR_TRANS	1	ic1	0.943035	0.987549	1.930584	29.853078	{'n_b': 11, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 1.0, 'lambda_r': 0.25}
+MDMFAUPR_TRANS	1	e1	0.846365	0.983430	1.829795	423.938557	{'n_b': 21, 'num_factors': 100, 'lambda_d': 1.0, 'lambda_t': 1.0, 'lambda_r': 0.25}
+MDMFAUPR_TRANS	1	luo	0.676596	0.967650	1.644246	2206.289516	{'n_b': 21, 'num_factors': 100, 'lambda_d': 0.25, 'lambda_t': 0.25, 'lambda_r': 0.0625}
