@@ -1,0 +1,4 @@
+nr_simmat_proteins_sw-n.txt
+nr_simmat_proteins_go.txt
+nr_simmat_proteins_spectrum-n-k3.txt
+nr_simmat_proteins_spectrum-n-k4.txt
