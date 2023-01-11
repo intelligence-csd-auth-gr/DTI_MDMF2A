@@ -1,5 +1,6 @@
 # DTI_MF2A
 Sources codes and datasets of paper [Multiple Similarity Drug-Target Interaction Prediction with Random Walks and Matrix Factorization](https://arxiv.org/abs/2201.09508)
+https://doi.org/10.1093/bib/bbac353
 
 >**Requirement**:
 joblib==0.14.1
